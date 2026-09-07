@@ -19,6 +19,10 @@ Each playbook includes prerequisites, step-by-step instructions, troubleshooting
 
 ## Available Playbooks
 
+### Community additions in this fork
+
+- [Run Tiel-Coder 35B-A3B with native MTP using llama.cpp](community/tiel-coder-llama-cpp/)
+
 ### NVIDIA
 
 - [CLI Coding Agent](nvidia/cli-coding-agent/)
